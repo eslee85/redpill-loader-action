@@ -4,8 +4,8 @@
     "vid": "0x0525",
     "sn": "1230LWN009033",
     "mac1": "52540024fa0b",     
-    "SataPortMap": "68",
-    "DiskIdxMap": "0001"
+    "SataPortMap": "6",
+    "DiskIdxMap": "00"
   },
   "synoinfo": {
     "supportsystemperature": "no",
